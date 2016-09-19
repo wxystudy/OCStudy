@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:StuGraMan/StuGraMan.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Poker/Poker.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:select/select.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:21-5/21-5.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:File/File.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:union/union.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:struct/struct.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:helloword/helloword.xcodeproj">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:FileManage/FileManage.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:MemMgm/MemMgm.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Data/Data.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Dictionary/Dictionary.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Set/Set.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Struct/Struct.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:memmanage/memmanage.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:String/String.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Object/Object.xcodeproj">
+   </FileRef>
+</Workspace>
