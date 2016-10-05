@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:delegate/delegate.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Singleton/Singleton.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Predicate/Predicate.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:NsCopy/NsCopy.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Protocol/Protocol.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Object/Object.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Array/Array.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:String/String.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:first/first.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:hello/hello.xcodeproj">
+   </FileRef>
+</Workspace>
